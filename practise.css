@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+#cricket{
+  height: 100px;
+}
+.image{
+  height: 75px;
+}
+.choice-button{
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  border: none;
+  border-radius: 50px;
+  background-color: rgb(123, 160, 172);
+  cursor: pointer;
+}
